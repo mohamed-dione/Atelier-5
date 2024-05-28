@@ -1,0 +1,33 @@
+body{
+    font-family: Monteserrat,Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    margin-top: 15px;
+    padding: 5px;
+}
+.navbar{
+    border: 1px solid black;
+     width: 50px;
+    height: 50px;    
+     background-color: darkgray;
+     border-radius: 50%;
+    padding-top: 6px; 
+    margin-left: 8px;
+}
+p{
+    margin-left: 10px; 
+}
+.Bakeli{
+    display: flex;
+    padding-top: 26px;
+    margin-right: 11px;
+    margin-bottom: 30px;
+    gap: 12px;
+}
